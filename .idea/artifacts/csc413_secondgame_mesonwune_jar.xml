@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="csc413-secondgame-mesonwune:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/csc413_secondgame_mesonwune_jar</output-path>
+    <root id="archive" name="csc413-secondgame-mesonwune.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/jar/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="csc413-secondgame-mesonwune" />
+    </root>
+  </artifact>
+</component>
