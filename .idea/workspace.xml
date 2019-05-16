@@ -7,18 +7,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abcf472c-f216-409b-8c9b-01550e73ede4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/csc413_secondgame_mesonwune_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Brick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/Block_solid.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csc413-secondgame-mesonwune.iml" beforeDir="false" afterPath="$PROJECT_DIR$/csc413-secondgame-mesonwune.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/csc413_secondgame_mesonwune_jar/csc413-secondgame-mesonwune.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/csc413-secondgame-mesonwune/Brick.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/csc413-secondgame-mesonwune/GamePlay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/csc413-secondgame-mesonwune/GamePlay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/csc413-secondgame-mesonwune/resources/Bigleg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/csc413-secondgame-mesonwune/resources/MapGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/csc413-secondgame-mesonwune/META-INF/csc413-secondgame-mesonwune.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/csc413-secondgame-mesonwune/MapGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/csc413-secondgame-mesonwune/MapGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/csc413-secondgame-mesonwune/resources/Background1.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/csc413-secondgame-mesonwune/resources/Block5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/csc413-secondgame-mesonwune/resources/Block6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/csc413-secondgame-mesonwune/resources/Block7.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/csc413-secondgame-mesonwune/resources/Block_solid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/csc413-secondgame-mesonwune/resources/Katch.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/csc413-secondgame-mesonwune/resources/Pop.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GamePlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GamePlay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Bigleg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/MapGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MapGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MapGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MapGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Background1.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Background1.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Block5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Block5.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Block6.gif" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Block6.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Block7.gif" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Block7.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Block_solid.gif" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Block_solid.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Katch.gif" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Katch.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Pop.gif" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Pop.gif" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -44,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GamePlay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-275">
-              <caret line="151" column="59" lean-forward="true" selection-start-line="151" selection-start-column="59" selection-end-line="151" selection-end-column="59" />
+            <state relative-caret-position="292">
+              <caret line="87" column="71" selection-start-line="87" selection-start-column="71" selection-end-line="87" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,20 +67,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MapGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+            <state relative-caret-position="675">
+              <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Brick.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -95,7 +97,11 @@
       <find>update</find>
       <find>bricksList</find>
       <find>draw</find>
+      <find>ball</find>
+      <find>Brick</find>
+      <find>Brick</find>
       <find>System</find>
+      <find>System.out</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,7 +122,6 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="101" />
     <option name="y" value="23" />
     <option name="width" value="1141" />
     <option name="height" value="777" />
@@ -126,6 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -137,35 +143,64 @@
             <path>
               <item name="csc413-secondgame-mesonwune" type="b2602c69:ProjectViewProjectNode" />
               <item name="csc413-secondgame-mesonwune" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csc413-secondgame-mesonwune" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-secondgame-mesonwune" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csc413-secondgame-mesonwune" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-secondgame-mesonwune" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csc413-secondgame-mesonwune" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-secondgame-mesonwune" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csc413-secondgame-mesonwune" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-secondgame-mesonwune" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="csc413-secondgame-mesonwune" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csc413-secondgame-mesonwune" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-secondgame-mesonwune" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="csc413-secondgame-mesonwune" type="b2602c69:ProjectViewProjectNode" />
               <item name="csc413-secondgame-mesonwune" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557471393707" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557796684714" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jar" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/resources" />
     </key>
   </component>
@@ -247,18 +282,19 @@
       <workItem from="1555980270335" duration="2564000" />
       <workItem from="1556581646265" duration="33388000" />
       <workItem from="1557770947344" duration="421000" />
-      <workItem from="1557780938398" duration="1400000" />
+      <workItem from="1557780938398" duration="3802000" />
+      <workItem from="1557986558535" duration="296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38826000" />
+    <option name="totallyTimeSpent" value="41524000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="101" y="23" width="1141" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1141" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23293903" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2365787" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -266,8 +302,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27153283" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.270073" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39940828" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -294,9 +330,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Window.java" />
-    <entry file="file://$PROJECT_DIR$/jar/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -308,13 +341,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BufferedImageLoader.java" />
-    <entry file="file://$PROJECT_DIR$/csc413-secondgame-mesonwune.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/GamePlay">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -475,24 +501,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/Bigleg.gif" />
-    <entry file="file://$PROJECT_DIR$/src/resources/Background1.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/Block6.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/Block7.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/Block5.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/Block_solid.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/Katch.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Objects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -507,34 +515,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Brick.java" />
+    <entry file="file://$PROJECT_DIR$/resources/Block6.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/Block7.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/Pop.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jar/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/Katch.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/Block_solid.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/Block5.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapGenerator.class" />
+    <entry file="file://$PROJECT_DIR$/csc413-secondgame-mesonwune.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GamePlay.class" />
+    <entry file="file://$PROJECT_DIR$/src/Game.class" />
+    <entry file="file://$PROJECT_DIR$/resources/Background1.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jar/Block6.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MapGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+        <state relative-caret-position="675">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Brick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GamePlay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-275">
-          <caret line="151" column="59" lean-forward="true" selection-start-line="151" selection-start-column="59" selection-end-line="151" selection-end-column="59" />
+        <state relative-caret-position="292">
+          <caret line="87" column="71" selection-start-line="87" selection-start-column="71" selection-end-line="87" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -552,7 +591,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

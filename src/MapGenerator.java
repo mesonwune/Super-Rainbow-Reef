@@ -45,9 +45,9 @@ public class MapGenerator
 
         try
         {
-            block1 = ImageIO.read(new File("src/resources/Block_solid.gif"));
-            block2 = ImageIO.read(new File("src/resources/Block6.gif"));
-            block3 = ImageIO.read(new File("src/resources/Block7.gif"));
+            block1 = ImageIO.read(new File("resources/Block_solid.gif"));
+            block2 = ImageIO.read(new File("resources/Block6.gif"));
+            block3 = ImageIO.read(new File("resources/Block7.gif"));
         } catch (Exception e) {
             System.out.print(e.getStackTrace());
         }

@@ -26,24 +26,23 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener
 
     private int ballposX = rand.nextInt((396 - 88) + 1) + 88;
     private int ballposY = 350;
-    private int ballXdir = -2;
-    private int ballYdir = -2;
+    private int ballXdir = -1;
+    private int ballYdir = -1;
 
     private MapGenerator map;
 
     public GamePlay()
     {
         map = new MapGenerator(4, 7);
-        System.out.println(totalBricks);
 
         addKeyListener(this);
         setFocusable(true);
         setFocusTraversalKeysEnabled(false);
 
         try{
-            background = ImageIO.read(new File("src/resources/Background1.bmp"));
-            shell = ImageIO.read(new File("src/resources/Katch.gif"));
-            star = ImageIO.read(new File("src/resources/Pop.gif"));
+            background = ImageIO.read(new File("resources/Background1.bmp"));
+            shell = ImageIO.read(new File("resources/Katch.gif"));
+            star = ImageIO.read(new File("resources/Pop.gif"));
         } catch (Exception e) {
             System.out.print(e.getStackTrace());
         }
@@ -61,7 +60,6 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener
         //draw map
         map.draw((Graphics2D) g);
         totalBricks = map.updateTotalBricks();
-        System.out.println(totalBricks);
 
         //borders
         g.setColor(new Color(0, 0, 0, 1));
@@ -87,6 +85,7 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener
 
         //ball
         g.drawImage(star, ballposX, ballposY, 20, 20, null);
+        System.out.println("ballX: " + ballposX + " ballY: " + ballposY);
 
         if (totalBricks <= 0)
         {
